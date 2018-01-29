@@ -1,1 +1,1 @@
-# prototype
+# Batched Event Scheduling Prototype
