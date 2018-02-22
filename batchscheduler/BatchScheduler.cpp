@@ -38,7 +38,7 @@ namespace BatchSimulator {
     class TemplateIf<false, I, OFFSET> {
     public:
         static inline void iff(Event *events[MAX_BATCH_SIZE]) {
-            // event is epsilon event
+            // event is \nu event
             // prevent segementation fault
         }
     };
